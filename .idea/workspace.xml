@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc9ed903-1c82-44d9-a241-726692ced1f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0229/RandomWalk.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-3-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-4-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-4-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-5-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-5-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-5-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/challenge-5-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0229/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0229/challenge-5-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/0229/challenge-5-4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0229/challenge-5-4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -59,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0229/challenge-5-5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="335">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -81,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/0229/challenge-4-2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="173">
-              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -151,14 +142,14 @@
         <option value="$PROJECT_DIR$/0229/RandomWalk.py" />
         <option value="$PROJECT_DIR$/0229/challenge-5-2.py" />
         <option value="$PROJECT_DIR$/0229/challenge-5-3.py" />
-        <option value="$PROJECT_DIR$/0229/challenge-5-4.py" />
         <option value="$PROJECT_DIR$/0229/challenge-5-5.py" />
+        <option value="$PROJECT_DIR$/0229/challenge-5-4.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="679" />
-    <option name="y" value="52" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-35" />
+    <option name="y" value="142" />
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
@@ -348,15 +339,16 @@
       <workItem from="1583123307040" duration="5885000" />
       <workItem from="1583309519189" duration="2167000" />
       <workItem from="1583328419700" duration="2361000" />
-      <workItem from="1583374079843" duration="6430000" />
+      <workItem from="1583374079843" duration="6912000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28311000" />
+    <option name="totallyTimeSpent" value="28793000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="453" y="35" width="1260" height="640" extended-state="0" />
+    <frame x="220" y="37" width="1260" height="640" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28036606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -446,13 +438,6 @@
     <entry file="file://$PROJECT_DIR$/0229/square.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/0229/challenge-4-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0229/programming.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -470,13 +455,6 @@
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0229/challenge-5-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -501,17 +479,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0229/challenge-5-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0229/challenge-4-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0229/challenge-5-3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0229/challenge-5-4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0229/challenge-5-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
